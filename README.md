@@ -12,9 +12,9 @@ RODADA 2: Resposta (Nenhuma, apenas grupos que escolheram D)
 ----- ----- ----- ----- -----
 RODADA 3: Resposta (Nenhuma, apenas grupos que escolheram B)
 ----- ----- ----- ----- -----
-RODADA 4: Resposta ~
+RODADA 4: Resposta (Nenhuma, apenas grupos que escolheram A)
 
------ / ----- / ----- / ----- / -----
+----- ----- ----- ----- -----
 **Contrato e regras de negócio que o banco prometeu aos clientes e aos reguladores:**
 
 | Regra | Como deve ser |
