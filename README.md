@@ -13,7 +13,13 @@ RODADA 2: Resposta (Nenhuma, apenas grupos que escolheram D)
 RODADA 3: Resposta (Nenhuma, apenas grupos que escolheram B)
 ----- ----- ----- ----- -----
 RODADA 4: Resposta (Nenhuma, apenas grupos que escolheram A)
+----- ----- ----- ----- -----
+"Dois clientes diferentes contas de numero 1001"
+RODADA 5: Resposta C (Auditar)
 
+Reputação = +1
+Prejuízo = R$ 45.000 (+10)
+Débito Técnico = -1
 ----- ----- ----- ----- -----
 **Contrato e regras de negócio que o banco prometeu aos clientes e aos reguladores:**
 
