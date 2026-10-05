@@ -21,6 +21,63 @@ Reputação = +1
 Prejuízo = R$ 45.000 (+10)
 Débito Técnico = -1
 ----- ----- ----- ----- -----
+# FICHA DE DECISÕES · War Room FiapBank (CP6 · 3 aulas)
+
+> Este arquivo é o **README.md do repositório do grupo** (`cp6-warroom-<nome-do-grupo>`).
+> Vale **5,0 pontos** (rodadas 0,5 · relâmpagos 0,3), e a nota é pela
+> **justificativa**, não pela letra. Preencham após cada aula e commitem até
+> **23h59 do mesmo dia** (regras completas na seção 5 do enunciado).
+>
+> **Os incidentes da madrugada são revelados só em aula.** O título de cada registro
+> será **ditado pelo professor na hora**; ninguém se antecipe.
+
+**Grupo (nome da equipe plantonista):** 23
+
+**Turma:** 2CCPG **Repo:** `cp6-warroom-23`
+
+**Integrantes (nome + RM):**
+
+| Nome | RM |
+|---|---|
+|Vinicius Barbosa Gomes |564854 |
+|Fabricio Cardoso de Oliveira |561827 |
+|Pedro Luis Tofoli |564441 |
+|Leonardo Luster Gomes |564448 |
+|Nelson Troccoli |562815 |
+|Raphael Talarico |565219 |
+
+## 0. Setup do repositório (antes da 1ª aula; podem apagar esta seção depois)
+
+1. Um integrante cria o repo **público** no GitHub: `cp6-warroom-<nome-do-grupo>`
+   (ex.: `cp6-warroom-debugadores`), com um README qualquer
+2. Substituam o conteúdo do `README.md` por este template (no navegador, pelo próprio
+   GitHub, ou clonando):
+   ```bash
+   git clone https://github.com/<conta>/cp6-warroom-<nome-do-grupo>.git
+   cd cp6-warroom-<nome-do-grupo>
+   # substitua o conteúdo do README.md por este template e:
+   git add .
+   git commit -m "chore: ficha em branco do grupo"
+   git push
+   ```
+3. Postem o **link no Teams** (o mesmo link para todo o grupo)
+
+**Convenção de commits** (1 commit por rodada; relâmpagos podem ir junto com a
+rodada seguinte):
+
+```
+decisao: R1 - opcao C (<resumo da justificativa em uma frase>)
+decisao: R2 - opcao A (<resumo em uma frase>)
+pos-mortem: relatorio de incidente da madrugada
+```
+
+---
+
+## 📁 Dossiê técnico do FiapBank (MVP em produção)
+
+**Stack:** Java 17 + Spring Boot + Spring Data JPA + Oracle. API com endpoints em
+`/api/contas` e `/api/transferencias` (cenário visto desde a Aula 13).
+
 **Contrato e regras de negócio que o banco prometeu aos clientes e aos reguladores:**
 
 | Regra | Como deve ser |
